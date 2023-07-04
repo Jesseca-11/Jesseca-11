@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jesseca-11
 - 👀 I’m interested in reading,music and gaining new knowledge 
-- 🌱 I’m currently learning Front-ebd develoment
+- 🌱 I’m currently learning Front-end develoment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
